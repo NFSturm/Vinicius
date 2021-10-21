@@ -1,0 +1,17 @@
+/* Headers */
+
+#header-container {
+   @apply w-full flex flex-row items-center p-5 justify-center shadow-xl bg-white bg-blue-400;
+
+   .logo {
+      @apply uppercase ml-8 text-3xl font-semibold text-white hidden md:flex;
+   }
+
+   .header-format {
+      @apply ml-5 flex items-baseline space-x-5;
+   }
+
+   .menu-item {
+      @apply text-white hover:text-gray-800 px-3 py-2 rounded-md text-center font-medium;
+   }
+}

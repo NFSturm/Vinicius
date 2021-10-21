@@ -4,6 +4,11 @@ module.exports = {
     './js/**/*.js',
     '../lib/*_web/**/*.*ex'
   ],
+  corePlugins: {
+    // ...
+
+   boxShadow: true,
+  },
   theme: {},
   variants: {},
   plugins: []

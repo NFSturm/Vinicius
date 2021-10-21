@@ -1,8 +1,9 @@
 {
   "devDependencies": {
     "autoprefixer": "^10.3.7",
-    "postcss": "^8.3.9",
+    "postcss": "^8.3.10",
     "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.6",
     "tailwindcss": "^2.2.17"
   }
 }
