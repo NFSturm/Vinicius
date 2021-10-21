@@ -15,3 +15,9 @@
       @apply text-white hover:text-gray-800 px-3 py-2 rounded-md text-center font-medium;
    }
 }
+
+/* Main Page */
+
+#main-content-wrapper {
+   @apply text-gray-600 body-font;
+}

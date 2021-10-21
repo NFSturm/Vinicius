@@ -19,6 +19,7 @@ defmodule ViniciusWeb.Router do
 
     live "/", PageLive
     live "/political-issues", PoliticalIssuesLive
+    live "/about", AboutLive
   end
 
   # Other scopes may use custom stacks.
